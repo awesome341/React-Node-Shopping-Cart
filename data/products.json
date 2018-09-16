@@ -145,6 +145,22 @@
       
     },
     
+    {
+      "id": 20,
+      "sku": 4,
+      "title": "Business",
+      "description": "",
+      "availableSizes": ["XS", "X", "L", "ML"],
+      "style": "Blue",
+      "price": 45.0,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true,
+      "gender": 2
+      
+    },
+    
     
     {
       "id": 0,
