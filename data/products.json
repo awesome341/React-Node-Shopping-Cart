@@ -4,69 +4,7 @@
 
    
 
-    {
-      "id": 14,
-      "sku": 10686354557628303,
-      "title": "Sphynx Tie Dye Wine T-Shirt",
-      "description": "GPX Poly 1",
-      "availableSizes": ["X", "L", "XL"],
-      "style": "Front tie dye print",
-      "price": 9.0,
-      "installments": 3,
-      "currencyId": "USD",
-      "currencyFormat": "$",
-      "isFreeShipping": true,
-      "gender": 1
-     
-    },
-
-    {
-      "id": 15,
-      "sku": 11033926921508487,
-      "title": "Skuul",
-      "description": "Treino 2014",
-      "availableSizes": ["X", "L", "XL", "XXL"],
-      "style": "Black T-Shirt with front print",
-      "price": 14.0,
-      "installments": 5,
-      "currencyId": "USD",
-      "currencyFormat": "$",
-      "isFreeShipping": true,
-      "gender": 1
-      
-    },
-
-    {
-      "id": 11,
-      "sku": 39876704341265606,
-      "title": "Wine Skul T-Shirt",
-      "description": "",
-      "availableSizes": ["X", "L"],
-      "style": "Wine",
-      "price": 13.25,
-      "installments": 3,
-      "currencyId": "USD",
-      "currencyFormat": "$",
-      "isFreeShipping": true,
-      "gender": 1
-      
-    },
-
-    {
-      "id": 16,
-      "sku": 10412368723880253,
-      "title": "Short Sleeve T-Shirt",
-      "description": "",
-      "availableSizes": ["XS", "X", "L", "ML", "XL"],
-      "style": "Grey",
-      "price": 75.0,
-      "installments": 5,
-      "currencyId": "USD",
-      "currencyFormat": "$",
-      "isFreeShipping": true,
-      "gender": 1
-      
-    },
+   
 
     {
       "id": 17,
