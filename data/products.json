@@ -12,6 +12,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -26,6 +27,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -40,6 +42,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -54,6 +57,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -68,6 +72,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -82,6 +87,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -96,6 +102,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 2
     },
     
     {
@@ -110,6 +117,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -124,6 +132,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -138,6 +147,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -152,6 +162,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -166,6 +177,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false
+      "gender": 1
     },
 
     {
@@ -180,6 +192,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false
+      "gender": 1
     },
 
     {
@@ -194,6 +207,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -208,6 +222,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -222,6 +237,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false
+      "gender": 1
     },
 
     {
@@ -236,6 +252,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     },
 
     {
@@ -250,6 +267,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
+      "gender": 1
     }
   ]
 }
