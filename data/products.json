@@ -113,6 +113,40 @@
     },
     
     {
+      "id": 18,
+      "sku": 2,
+      "title": "Business",
+      "description": "",
+      "availableSizes": ["XS", "X", "L", "ML"],
+      "style": "Blue",
+      "price": 45.0,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true,
+      "gender": 2
+      
+    },
+    
+    
+    {
+      "id": 19,
+      "sku": 3,
+      "title": "Business",
+      "description": "",
+      "availableSizes": ["XS", "X", "L", "ML"],
+      "style": "Blue",
+      "price": 45.0,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true,
+      "gender": 2
+      
+    },
+    
+    
+    {
       "id": 0,
       "sku": 8552515751438644,
       "title": "Cat Tee Black T-Shirt",
