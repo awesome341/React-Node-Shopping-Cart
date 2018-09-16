@@ -2,21 +2,7 @@
   "products": [
     
 
-    {
-      "id": 13,
-      "sku": 51498472915966366,
-      "title": "Dark Thug Blue-Navy T-Shirt",
-      "description": "",
-      "availableSizes": ["M"],
-      "style": "Front print and paisley print",
-      "price": 29.45,
-      "installments": 5,
-      "currencyId": "USD",
-      "currencyFormat": "$",
-      "isFreeShipping": true,
-      "gender": 1
-     
-    },
+   
 
     {
       "id": 14,
